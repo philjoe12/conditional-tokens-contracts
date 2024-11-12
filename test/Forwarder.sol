@@ -1,4 +1,4 @@
-pragma solidity ^0.5.0;
+pragma solidity ^0.8.2;
 
 import { ERC1155TokenReceiver } from "../contracts/ERC1155/ERC1155TokenReceiver.sol";
 
