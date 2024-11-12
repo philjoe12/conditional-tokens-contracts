@@ -1,2 +1,0 @@
-@openzeppelin/=lib/openzeppelin-contracts/
-@gnosis.pm/safe-contracts/=lib/safe-contracts/
