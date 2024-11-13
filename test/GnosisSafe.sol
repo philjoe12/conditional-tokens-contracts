@@ -1,3 +1,8 @@
-pragma solidity ^0.8.2;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
 
-import { GnosisSafe } from "@gnosis.pm/safe-contracts/contracts/GnosisSafe.sol";
+import "safe-contracts/contracts/Safe.sol";
+
+contract GnosisSafeMock is Safe {
+    // Add any mock implementations if needed
+}
