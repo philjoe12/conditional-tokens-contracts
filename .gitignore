@@ -150,3 +150,6 @@ _site/
 cache/
 out/
 broadcast/
+lib/**/foundry.toml
+lib/**/.git
+lib/**/test
