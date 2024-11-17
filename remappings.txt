@@ -1,4 +1,0 @@
-@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
-@gnosis.pm/safe-contracts/=lib/safe-contracts/contracts/
-safe-contracts/=lib/safe-contracts/
-forge-std/=lib/forge-std/src/
